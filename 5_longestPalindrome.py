@@ -37,6 +37,7 @@ class Solution:
 
         return output
 
+
 s = 'baab'
 sol = Solution().longestPalindrome(s)
 print(sol)
